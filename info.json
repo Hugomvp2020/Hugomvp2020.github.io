@@ -1,51 +1,81 @@
 {
-    "style1": [
-        {
-            "title": "The Martian. 2015", 
-            "video_url": "https://vip.okokbo.com/20171220/Ud9VipDU/800kb/hls/index.m3u8", 
-            "video_cover_url": "http://gif-china.cc/uploads/allimg/202002/76348694f8cd0bad.jpg?h=190"
-        }
-    ], 
-    "style2": [
-        {
-            "title": "Theater Now", 
-            "video_list": [
-                {
-                    "video_title": "D哈哈unkirk", 
-                    "video_url": "http://youku.cdn1-letv.com/20171206/dU9MZ7CF/800kb/hls/index.m3u8", 
-                    "video_cover_url": "http://gif-china.cc/uploads/allimg/202002/da09152f6ef0a89c.jpg?h=250"
-                },
-                {
-                    "video_title": "Blade Runner 2049", 
-                    "video_url": "http://bobo.okokbo.com/20171226/gXxCgJUG/800kb/hls/index.m3u8", 
-                    "video_cover_url": "https://irs.www.warnerbros.com/keyart-jpeg/movies/media/browser/blade_runner2049_whv_keyart.jpg"
-                },
-                {
-                    "video_title": "Blade Runner 2049", 
-                    "video_url": "http://bobo.okokbo.com/20171226/gXxCgJUG/800kb/hls/index.m3u8", 
-                    "video_cover_url": "https://irs.www.warnerbros.com/keyart-jpeg/movies/media/browser/blade_runner2049_whv_keyart.jpg"
-                }
-                
-            ]
-        }
-    ], 
-    "style3": [
-        {
-            "title": "Theater Now", 
-            "video_list": [
-                {
-                   "video_title": "The Martian. 2015", 
-                    "video_url": "https://vip.okokbo.com/20171220/Ud9VipDU/800kb/hls/index.m3u8", 
-                    "video_cover_url": "http://gif-china.cc/uploads/allimg/202002/76348694f8cd0bad.jpg?h=190"
-                }
-            ], 
-            "video_list2": [
-                {
-                   "video_title": "The Martian. 2015", 
-                    "video_url": "https://vip.okokbo.com/20171220/Ud9VipDU/800kb/hls/index.m3u8", 
-                    "video_cover_url": "http://gif-china.cc/uploads/allimg/202002/76348694f8cd0bad.jpg?h=190"
-                }
-            ]
-        }
+  "style1": [{
+    "title": "The Martian. 2015",
+    "video_url": "https://vip.okokbo.com/20171220/Ud9VipDU/800kb/hls/index.m3u8",
+    "video_cover_url": "http://gif-china.cc/uploads/allimg/202002/76348694f8cd0bad.jpg?h=190"
+  }],
+  "style2": [{
+    "title": "Theater Now",
+    "video_list": [{
+        "video_title": "D哈哈unkirk",
+        "video_url": "http://youku.cdn1-letv.com/20171206/dU9MZ7CF/800kb/hls/index.m3u8",
+        "video_cover_url": "http://gif-china.cc/uploads/allimg/202002/da09152f6ef0a89c.jpg?h=250"
+      },
+      {
+        "video_title": "Blade Runner 2049",
+        "video_url": "http://bobo.okokbo.com/20171226/gXxCgJUG/800kb/hls/index.m3u8",
+        "video_cover_url": "https://irs.www.warnerbros.com/keyart-jpeg/movies/media/browser/blade_runner2049_whv_keyart.jpg"
+      },
+      {
+        "video_title": "The Shape of Water",
+        "video_url": "http://cn2.okokzyyun.com/20180228/PQl3Ydcf/900kb/hls/index.m3u8",
+        "video_cover_url": "http://gif-china.cc/uploads/allimg/201802/d99100071df422ad.jpg?h=190"
+      },
+      {
+        "video_title": "Logan 3",
+        "video_url": "http://52dy.hanju2017.com/20170603/yCNAIFbh/hls/index.m3u8",
+        "video_cover_url": "http://gif-china.cc/uploads/allimg/201704/06aa7b69973eec98.jpg?h=190"
+      },
+      {
+      "video_title": "Un Beau Soleil Interieur",
+      "video_url": "https://cn2.okokzyyun.com/20180330/mpSMtpUu/index.m3u8",
+      "video_cover_url": "https://m.media-amazon.com/images/M/MV5BZjQ5N2IyY2QtMDE3OS00ZGQxLTg3NmQtOGQzNmQwOTZiYWMzXkEyXkFqcGdeQXVyNTIyODMzMzA@._V1_SY1000_CR0,0,675,1000_AL_.jpg"
+      }
     ]
+
+  }],
+  "style3": [{
+    "title": "Theater Now",
+    "video_list": [{
+      "video_title": "The Shape of Water",
+      "video_url": "http://cn2.okokzyyun.com/20180228/PQl3Ydcf/900kb/hls/index.m3u8",
+      "video_cover_url": "http://gif-china.cc/uploads/allimg/201802/d99100071df422ad.jpg?h=190"
+
+      },
+      {
+        "video_title": "Replicas",
+        "video_url": "https://bilibili.com-l-bilibili.com/20181222/7902_0674837e/1000k/hls/index.m3u8",
+        "video_cover_url": "http://gif-china.cc/uploads/allimg/181222/e448b3b4d2b84929.jpg?h=190"
+      },
+      {
+        "video_title": "EX_Machina",
+        "video_url": "https://cn2.okokzyyun.com/20180403/Xwe8qw2N/index.m3u8",
+        "video_cover_url": "http://gif-china.cc/uploads/litimg/201512/168d377530cbede6.jpg?h=190"
+      }],
+
+    "video_list2": [{
+      "video_title": "Rememory",
+      "video_url": "https://youku.cdn-tudou.com/20180607/6300_6b3468a4/index.m3u8",
+      "video_cover_url": "https://img9.doubanio.com/view/photo/l/public/p2496168240.webp"
+    },
+    {
+      "video_title": "Love Death&Robots-S03",
+      "video_url": "https://youku.com-movie-youku.com/20190316/12263_99ad163b/1000k/hls/index.m3u8",
+      "video_cover_url": "http://gif-china.cc/uploads/allimg/201903/fec6f7349588a4ac.jpg?h=250"
+    },
+    {
+      "video_title": "Un Beau Soleil Interieur",
+      "video_url": "https://cn2.okokzyyun.com/20180330/mpSMtpUu/index.m3u8",
+      "video_cover_url": "https://m.media-amazon.com/images/M/MV5BZjQ5N2IyY2QtMDE3OS00ZGQxLTg3NmQtOGQzNmQwOTZiYWMzXkEyXkFqcGdeQXVyNTIyODMzMzA@._V1_SY1000_CR0,0,675,1000_AL_.jpg"
+    },
+
+    {
+      "video_title": "Replicas",
+      "video_url": "https://bilibili.com-l-bilibili.com/20181222/7902_0674837e/1000k/hls/index.m3u8",
+      "video_cover_url": "http://gif-china.cc/uploads/allimg/181222/e448b3b4d2b84929.jpg?h=190"
+    }
+
+
+  )]
+  }]
 }
