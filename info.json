@@ -1,13 +1,13 @@
 {
-    "style1": [
+    "data": [
         {
+            "style": "style_video", 
             "title": "The Martian. 2015", 
             "video_url": "https://vip.okokbo.com/20171220/Ud9VipDU/800kb/hls/index.m3u8", 
             "video_cover_url": "http://gif-china.cc/uploads/allimg/202002/76348694f8cd0bad.jpg?h=190"
-        }
-    ], 
-    "style2": [
+        }, 
         {
+            "style": "style_video", 
             "title": "Theater Now", 
             "video_list": [
                 {
@@ -36,10 +36,9 @@
                     "video_cover_url": "https://m.media-amazon.com/images/M/MV5BZjQ5N2IyY2QtMDE3OS00ZGQxLTg3NmQtOGQzNmQwOTZiYWMzXkEyXkFqcGdeQXVyNTIyODMzMzA@._V1_SY1000_CR0,0,675,1000_AL_.jpg"
                 }
             ]
-        }
-    ], 
-    "style3": [
+        }, 
         {
+            "style": "style_video", 
             "title": "Theater Now", 
             "video_list": [
                 {
