@@ -11,10 +11,21 @@
             "title": "Theater Now", 
             "video_list": [
                 {
-                    "video_title": "The Martian. 2015", 
-                    "video_url": "https://vip.okokbo.com/20171220/Ud9VipDU/800kb/hls/index.m3u8", 
-                    "video_cover_url": "http://gif-china.cc/uploads/allimg/202002/76348694f8cd0bad.jpg?h=190"
+                    "video_title": "D哈哈unkirk", 
+                    "video_url": "http://youku.cdn1-letv.com/20171206/dU9MZ7CF/800kb/hls/index.m3u8", 
+                    "video_cover_url": "http://gif-china.cc/uploads/allimg/202002/da09152f6ef0a89c.jpg?h=250"
+                },
+                {
+                    "video_title": "Blade Runner 2049", 
+                    "video_url": "http://bobo.okokbo.com/20171226/gXxCgJUG/800kb/hls/index.m3u8", 
+                    "video_cover_url": "https://irs.www.warnerbros.com/keyart-jpeg/movies/media/browser/blade_runner2049_whv_keyart.jpg"
+                },
+                {
+                    "video_title": "Blade Runner 2049", 
+                    "video_url": "http://bobo.okokbo.com/20171226/gXxCgJUG/800kb/hls/index.m3u8", 
+                    "video_cover_url": "https://irs.www.warnerbros.com/keyart-jpeg/movies/media/browser/blade_runner2049_whv_keyart.jpg"
                 }
+                
             ]
         }
     ], 
