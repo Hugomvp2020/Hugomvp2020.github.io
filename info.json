@@ -7,7 +7,7 @@
             "video_cover_url": "http://gif-china.cc/uploads/allimg/202002/76348694f8cd0bad.jpg?h=190"
         }, 
         {
-            "style": "style_video", 
+            "style": "style_big_video", 
             "title": "Theater Now", 
             "video_list": [
                 {
@@ -38,7 +38,7 @@
             ]
         }, 
         {
-            "style": "style_video", 
+            "style": "style_six_video", 
             "title": "Theater Now", 
             "video_list": [
                 {
