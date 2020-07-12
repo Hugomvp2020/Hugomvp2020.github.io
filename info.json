@@ -1,124 +1,120 @@
 {
-    "host":"oktvmao",
-    "data": [
-        {
-            "style": "style_video",
-            "title": "The Martian. 2015",
-            "video_detail": "",
-            "video_url": "https://youku.com-l-youku.com/20190118/17330_03924f1d/1000k/hls/index.m3u8",
-            "video_address": "/btdy/dy11752.html",
-            "video_cover_url": "https://www.jackcring.com/images/copyright.jpg"
-        },
-        {
-            "style": "style_big_video",
-            "title": "Theater Now",
-            "video_list": [
-                {
-                    "video_title": "第一头牛",
-                    "video_address": "http://www.oktvmao.com/index.php/vod/detail/id/52944.html",
-                    "video_url": "",
-                    "video_detail": "",
-                    "video_cover_url": "https://images.cnblogsc.com/pic/upload/vod/2020-07/202007111594482299.jpg"
-                },
-                {
-                    "video_title": "The Walking Dead Season 8",
-                    "video_address": "http://www.btbtdy.la/btdy/dy11721.html",
-                    "video_url": "",
-                    "video_detail": "",
-                    "video_cover_url": "http://gif-china.cc/uploads/allimg/201710/d4a6d0a9dfb705ba.jpg?h=250"
-                },
-                {
-                    "video_title": "饥饿站台",
-                    "video_address": "http://www.btbtdy.la/btdy/dy23306.html",
-                    "video_url": "",
-                    "video_detail": "",
-                    "video_cover_url": "http://gif-china.cc/uploads/allimg/202003/6d8178894f4f058b.jpg?h=250"
-                },
-                {
-                    "video_title": "银行家",
-                    "video_address": "http://www.btbtdy.la/btdy/dy23300.html",
-                    "video_url": "",
-                    "video_detail": "",
-                    "video_cover_url": "http://gif-china.cc/uploads/allimg/202003/c290cb348bc024f5.jpg?h=250"
-                },
-                {
-                    "video_title": "Logan 3",
-                    "video_address": "http://www.btbtdy.la/btdy/dy10395.html",
-                    "video_url": "",
-                    "video_detail": "",
-                    "video_cover_url": "http://gif-china.cc/uploads/allimg/201704/06aa7b69973eec98.jpg?h=190"
-                },
-                {
-                    "video_title": "空手道",
-                    "video_address": "http://www.btbtdy.la/btdy/dy12418.html",
-                    "video_url": "",
-                    "video_detail": "",
-                    "video_cover_url": "http://gif-china.cc/uploads/allimg/201802/edbf62d928189bf9.jpg?h=250"
-                }
-            ]
-        },
-        {
-            "style": "style_six_video",
-            "title": "The Weeks",
-            "video_list": [
-                {
-                    "video_title": "龙岭迷窟",
-                    "video_address": "http://www.btbtdy.la/btdy/dy23883.html",
-                    "video_url": "",
-                    "video_detail": "",
-                    "video_cover_url": "http://gif-china.cc/uploads/allimg/202004/dd0d856e58a84932.jpg?h=250"
-                },
-                {
-                    "video_title": "Ready Player One",
-                    "video_address": "http://www.btbtdy.la/btdy/dy12646.html",
-                    "video_url": "",
-                    "video_detail": "",
-                    "video_cover_url": "http://gif-china.cc/uploads/allimg/201804/d21075e58c09f2fa.jpg?h=250"
-                },
-                {
-                    "video_title": "Mr Robot",
-                    "video_address": "http://www.btbtdy.la/btdy/dy18579.html",
-                    "video_url": "",
-                    "video_detail": "",
-                    "video_cover_url": "http://gif-china.cc/uploads/allimg/201911/2d91eb1f357bd2cf.jpg?h=250"
-                },
-                {
-                    "video_title": "The Shape of Water",
-                    "video_address": "http://www.btbtdy.la/btdy/dy12460.html",
-                    "video_url": "",
-                    "video_detail": "",
-                    "video_cover_url": "http://gif-china.cc/uploads/allimg/201802/d99100071df422ad.jpg?h=190"
-                }
-            ],
-            "video_list2": [
-                {
-                    "video_title": "Westworld Season 03",
-                    "video_address": "http://www.btbtdy.la/btdy/dy23098.html",
-                    "video_url": "",
-                    "video_detail": "",
-                    "video_cover_url": "http://gif-china.cc/uploads/allimg/202003/03132bc9dc89614a.jpg?h=250"
-                },
-                {
-                    "video_title": "谤法 The Cursed",
-                    "video_address": "http://www.btbtdy.la/btdy/dy21658.html",
-                    "video_url": "",
-                    "video_detail": "",
-                    "video_cover_url": "http://gif-china.cc/uploads/allimg/202002/b7bb0ed688562a08.jpg?h=250"
-                },
-                {
-                    "video_title": "国王：永远的君主",
-                    "video_address": "http://www.btbtdy.la/btdy/dy24587.html",
-                    "video_url": "",
-                    "video_detail": "",
-                    "video_cover_url": "http://gif-china.cc/uploads/allimg/202004/dfe07845656c84be.jpg?h=250"
-                },
-                {
-                    "video_title": "Guns Akimbo (2019)",
-                    "video_address": "http://www.btbtdy.la/btdy/dy22449.html",
-                    "video_url": "",
-                    "video_cover_url": "http://gif-china.cc/uploads/allimg/202003/3901d4ceb95268f8.jpg?h=250"
-                }
-            ]
-        }
-    ]
+	"host": "oktvmao",
+	"data": [{
+			"style": "style_video",
+			"title": "The Martian. 2015",
+			"video_detail": "",
+			"video_url": "https://youku.com-l-youku.com/20190118/17330_03924f1d/1000k/hls/index.m3u8",
+			"video_address": "/btdy/dy11752.html",
+			"video_cover_url": "https://www.jackcring.com/images/copyright.jpg"
+		},
+		{
+			"style": "style_big_video",
+			"title": "Theater Now",
+			"video_list": [{
+					"video_title": "第一头牛",
+					"video_address": "http://www.oktvmao.com/index.php/vod/detail/id/52944.html",
+					"video_url": "",
+					"video_detail": "",
+					"video_cover_url": "https://images.cnblogsc.com/pic/upload/vod/2020-07/202007111594482299.jpg"
+				},
+				{
+					"video_title": "The Walking Dead Season 8",
+					"video_address": "http://www.btbtdy.la/btdy/dy11721.html",
+					"video_url": "",
+					"video_detail": "",
+					"video_cover_url": "http://gif-china.cc/uploads/allimg/201710/d4a6d0a9dfb705ba.jpg?h=250"
+				},
+				{
+					"video_title": "饥饿站台",
+					"video_address": "http://www.btbtdy.la/btdy/dy23306.html",
+					"video_url": "",
+					"video_detail": "",
+					"video_cover_url": "http://gif-china.cc/uploads/allimg/202003/6d8178894f4f058b.jpg?h=250"
+				},
+				{
+					"video_title": "银行家",
+					"video_address": "http://www.btbtdy.la/btdy/dy23300.html",
+					"video_url": "",
+					"video_detail": "",
+					"video_cover_url": "http://gif-china.cc/uploads/allimg/202003/c290cb348bc024f5.jpg?h=250"
+				},
+				{
+					"video_title": "Logan 3",
+					"video_address": "http://www.btbtdy.la/btdy/dy10395.html",
+					"video_url": "",
+					"video_detail": "",
+					"video_cover_url": "http://gif-china.cc/uploads/allimg/201704/06aa7b69973eec98.jpg?h=190"
+				},
+				{
+					"video_title": "空手道",
+					"video_address": "http://www.btbtdy.la/btdy/dy12418.html",
+					"video_url": "",
+					"video_detail": "",
+					"video_cover_url": "http://gif-china.cc/uploads/allimg/201802/edbf62d928189bf9.jpg?h=250"
+				}
+			]
+		},
+		{
+			"style": "style_six_video",
+			"title": "The Weeks",
+			"video_list": [{
+					"video_title": "龙岭迷窟",
+					"video_address": "http://www.btbtdy.la/btdy/dy23883.html",
+					"video_url": "",
+					"video_detail": "",
+					"video_cover_url": "http://gif-china.cc/uploads/allimg/202004/dd0d856e58a84932.jpg?h=250"
+				},
+				{
+					"video_title": "Ready Player One",
+					"video_address": "http://www.btbtdy.la/btdy/dy12646.html",
+					"video_url": "",
+					"video_detail": "",
+					"video_cover_url": "http://gif-china.cc/uploads/allimg/201804/d21075e58c09f2fa.jpg?h=250"
+				},
+				{
+					"video_title": "Mr Robot",
+					"video_address": "http://www.btbtdy.la/btdy/dy18579.html",
+					"video_url": "",
+					"video_detail": "",
+					"video_cover_url": "http://gif-china.cc/uploads/allimg/201911/2d91eb1f357bd2cf.jpg?h=250"
+				},
+				{
+					"video_title": "The Shape of Water",
+					"video_address": "http://www.btbtdy.la/btdy/dy12460.html",
+					"video_url": "",
+					"video_detail": "",
+					"video_cover_url": "http://gif-china.cc/uploads/allimg/201802/d99100071df422ad.jpg?h=190"
+				}
+			],
+			"video_list2": [{
+					"video_title": "Westworld Season 03",
+					"video_address": "http://www.btbtdy.la/btdy/dy23098.html",
+					"video_url": "",
+					"video_detail": "",
+					"video_cover_url": "http://gif-china.cc/uploads/allimg/202003/03132bc9dc89614a.jpg?h=250"
+				},
+				{
+					"video_title": "谤法 The Cursed",
+					"video_address": "http://www.btbtdy.la/btdy/dy21658.html",
+					"video_url": "",
+					"video_detail": "",
+					"video_cover_url": "http://gif-china.cc/uploads/allimg/202002/b7bb0ed688562a08.jpg?h=250"
+				},
+				{
+					"video_title": "国王：永远的君主",
+					"video_address": "http://www.btbtdy.la/btdy/dy24587.html",
+					"video_url": "",
+					"video_detail": "",
+					"video_cover_url": "http://gif-china.cc/uploads/allimg/202004/dfe07845656c84be.jpg?h=250"
+				},
+				{
+					"video_title": "Guns Akimbo (2019)",
+					"video_address": "http://www.btbtdy.la/btdy/dy22449.html",
+					"video_url": "",
+					"video_cover_url": "http://gif-china.cc/uploads/allimg/202003/3901d4ceb95268f8.jpg?h=250"
+				}
+			]
+		}
+	]
 }
